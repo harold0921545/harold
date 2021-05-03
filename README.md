@@ -1,3 +1,0 @@
-# harold
-
-HELLO
